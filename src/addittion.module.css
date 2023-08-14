@@ -1,0 +1,41 @@
+.up{
+    background-color: aquamarine;
+    width: 60vh;
+    height: 80vh;
+    overflow: auto;
+    margin: auto;
+}
+.up button{
+    display: flex;
+    align-items: center;
+    width: 10vh;
+    height: 3vh;
+    margin: 5px;
+    justify-content: center;
+    font-weight: bolder;
+}
+.down{
+    background-color: white;
+    margin: 3vh;
+    padding: 10px;
+    border-radius: 20px;
+    width: 50vh;
+    height: 15vh;
+}
+.but{
+    display: flex;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin: 4vh;
+}
+.down h2{
+    text-align: center;
+}
+.down p {
+    font-size: 1.5em;
+}
+.down.completed{
+    background-color: greenyellow;
+}

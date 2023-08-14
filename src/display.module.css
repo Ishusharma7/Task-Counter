@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.main input{
+    width: 20vh;
+    height: 5vh;
+}
+.main button{
+    width: 6vh;
+    height: 3vh;
+}
+.main h1{
+    color: white;
+}
